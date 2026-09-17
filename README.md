@@ -26,6 +26,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
@@ -41,4 +42,12 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
