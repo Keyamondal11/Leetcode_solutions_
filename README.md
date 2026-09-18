@@ -25,6 +25,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -37,6 +38,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
