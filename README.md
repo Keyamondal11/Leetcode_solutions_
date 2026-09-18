@@ -50,4 +50,16 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
