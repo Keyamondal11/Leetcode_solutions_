@@ -27,6 +27,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -34,6 +35,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
@@ -74,4 +76,8 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3498-reverse-degree-of-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
