@@ -18,6 +18,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0002-add-two-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
