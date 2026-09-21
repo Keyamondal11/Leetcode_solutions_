@@ -16,6 +16,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 ## Dynamic Programming
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
@@ -65,6 +66,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0002-add-two-numbers) |
+| [0788-rotated-digits](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0788-rotated-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
