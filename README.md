@@ -35,6 +35,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | [0788-rotated-digits](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0788-rotated-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -85,4 +87,8 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0004-median-of-two-sorted-arrays) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
