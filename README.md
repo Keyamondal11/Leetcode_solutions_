@@ -31,6 +31,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | [0001-two-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -41,16 +42,19 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,4 +95,8 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3525-find-x-value-of-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
