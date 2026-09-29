@@ -18,6 +18,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | ------- |
 | [0788-rotated-digits](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
@@ -36,6 +37,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3525-find-x-value-of-array-ii) |
@@ -106,4 +108,12 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
