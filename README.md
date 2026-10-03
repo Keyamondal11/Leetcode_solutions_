@@ -12,6 +12,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3498-reverse-degree-of-a-string) |
@@ -19,6 +20,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
 | [0788-rotated-digits](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0788-rotated-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -124,6 +126,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
@@ -137,6 +140,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
