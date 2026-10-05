@@ -13,6 +13,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/3498-reverse-degree-of-a-string) |
@@ -127,6 +128,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
@@ -141,6 +143,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
