@@ -13,6 +13,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -138,6 +139,7 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -148,5 +150,6 @@ Solving DSA problems of Leetcode in Python,JAVA,C++ languages
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Keyamondal11/Leetcode_solutions_/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
